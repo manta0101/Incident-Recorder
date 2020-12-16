@@ -1,7 +1,5 @@
-# Incident Recorder
-
-This is a windows program with a purpose of being able to be used within a
-Security incident. It has two files, a main program, and a configuration.
+# Incident Recorder (part of Incident Responder)
+This is a simple windows program with a purpose of being able to be used within a Security incident. It has Three files, a main program, a configuration file and the license file, If you use this program you will need all three. Note: the name of the program is Incident responder, the first release is just the incident recorder piece of the application. As I mature the parent application, I plan to add features like forensic gathering, email, etc. Each will have a standalone version. I am using this project to learn C#. this release uses the .net framework. It's only been tested on 2 computers.
 
 ![](media/83131cc20b166f2950ca52a845363169.png)
 
