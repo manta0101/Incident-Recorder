@@ -41,3 +41,5 @@ the Save button.
 Once saved the file location is written to the config file, This is the default
 location for all configuration information including the Preliminary and
 Incident team data.
+# New Beta testing release 1.3 in downloads
+there is a new beta testing release in downloads. as of 3/31/22 I plan to move this to full release at the end of April.
