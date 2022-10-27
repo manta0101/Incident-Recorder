@@ -1,5 +1,5 @@
 # What's New
-I have included both a Chat server and a Chat client with the new release. the chat server also logs chat into a text file locally to the install (log.txt).
+I have included both a Chat server and a Chat client with the new release. the chat server also logs chat messages into a text file locally to the install (log.txt) in UTC time.
 The chat server does not have a config file but is started from the Incident Responder application machine. The chat client is standalone and allows for the configuration to 
 be set to the incident responder chat server.
 
